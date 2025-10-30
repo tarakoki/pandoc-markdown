@@ -4,5 +4,5 @@ Ova dokumentacija sliži u svrhu primjene Pandoca za koverziju datoteka, odnosno
 1. 🍄‍🟫 [Uvod u Pandoc](docs/02-pandoc-primjeri-konverzije.md)
 2. ✨ [Uvod u Markdown](docs/01-markdown-primjeri.md)
 
-![Tux](Tux.svg.png)
+<img src="Tux.svg.png" width="30%">
 
